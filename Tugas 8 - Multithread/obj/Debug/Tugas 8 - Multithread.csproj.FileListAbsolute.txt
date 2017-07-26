@@ -1,0 +1,5 @@
+c:\users\lovita\documents\visual studio 2015\Projects\Tugas 8 - Multithread\Tugas 8 - Multithread\bin\Debug\Tugas 8 - Multithread.exe.config
+c:\users\lovita\documents\visual studio 2015\Projects\Tugas 8 - Multithread\Tugas 8 - Multithread\bin\Debug\Tugas 8 - Multithread.exe
+c:\users\lovita\documents\visual studio 2015\Projects\Tugas 8 - Multithread\Tugas 8 - Multithread\bin\Debug\Tugas 8 - Multithread.pdb
+c:\users\lovita\documents\visual studio 2015\Projects\Tugas 8 - Multithread\Tugas 8 - Multithread\obj\Debug\Tugas 8 - Multithread.exe
+c:\users\lovita\documents\visual studio 2015\Projects\Tugas 8 - Multithread\Tugas 8 - Multithread\obj\Debug\Tugas 8 - Multithread.pdb

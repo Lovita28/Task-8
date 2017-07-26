@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tugas 8 - Multithread", "Tugas 8 - Multithread\Tugas 8 - Multithread.csproj", "{3DF41D8A-6AAF-488B-B589-F938AC0DBE84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tugas Akhir 8 - Multithread v2", "Tugas Akhir 8 - Multithread v2\Tugas Akhir 8 - Multithread v2.csproj", "{1B0C22F9-653E-4AEC-8861-4B3CE01D4B45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DF41D8A-6AAF-488B-B589-F938AC0DBE84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DF41D8A-6AAF-488B-B589-F938AC0DBE84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DF41D8A-6AAF-488B-B589-F938AC0DBE84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DF41D8A-6AAF-488B-B589-F938AC0DBE84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B0C22F9-653E-4AEC-8861-4B3CE01D4B45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B0C22F9-653E-4AEC-8861-4B3CE01D4B45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B0C22F9-653E-4AEC-8861-4B3CE01D4B45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B0C22F9-653E-4AEC-8861-4B3CE01D4B45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
